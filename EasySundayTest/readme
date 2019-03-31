@@ -1,0 +1,9 @@
+input: dbbaCEDbdAacCEAadcB
+output: b:2, d:2, a:1, c:0, e:-2
+
+Description:
+This is the scoreboard which the name of the player will be placed with these following conditions:
+1. The winner will be given with one point and written with normal letter.
+2. The loser will be scored minus one with and written with a capital letter.
+
+Please report all the player with score followed by the most winner.
